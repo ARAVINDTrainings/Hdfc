@@ -1,1 +1,1 @@
-This is user reg page
+This is user registration page
