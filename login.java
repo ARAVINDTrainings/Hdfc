@@ -1,4 +1,4 @@
 This is login page
-username[use]
+username[user]
 password [pwd]
 
